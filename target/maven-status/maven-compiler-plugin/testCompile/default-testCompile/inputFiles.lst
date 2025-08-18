@@ -1,0 +1,14 @@
+C:\Users\Edify\eclipse-workspace\OpenCart\src\test\java\BaseTests\BaseClass.java
+C:\Users\Edify\eclipse-workspace\OpenCart\src\test\java\PageObjects\AccountRegistrationPage.java
+C:\Users\Edify\eclipse-workspace\OpenCart\src\test\java\PageObjects\BasePage.java
+C:\Users\Edify\eclipse-workspace\OpenCart\src\test\java\PageObjects\HomePage.java
+C:\Users\Edify\eclipse-workspace\OpenCart\src\test\java\PageObjects\LoginPage.java
+C:\Users\Edify\eclipse-workspace\OpenCart\src\test\java\PageObjects\MyAccountPage.java
+C:\Users\Edify\eclipse-workspace\OpenCart\src\test\java\PageObjects\SearchPage.java
+C:\Users\Edify\eclipse-workspace\OpenCart\src\test\java\Testcases\TC_001_AccountRegistrationTest.java
+C:\Users\Edify\eclipse-workspace\OpenCart\src\test\java\Testcases\TC_002_LoginTest.java
+C:\Users\Edify\eclipse-workspace\OpenCart\src\test\java\Testcases\TC_003_LoginDataDrivenTesting.java
+C:\Users\Edify\eclipse-workspace\OpenCart\src\test\java\Testcases\TC_004_SearchTest.java
+C:\Users\Edify\eclipse-workspace\OpenCart\src\test\java\Utilities\DataProviders.java
+C:\Users\Edify\eclipse-workspace\OpenCart\src\test\java\Utilities\ExcelUtility.java
+C:\Users\Edify\eclipse-workspace\OpenCart\src\test\java\Utilities\ExtentReportManager.java

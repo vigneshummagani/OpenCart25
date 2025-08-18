@@ -1,0 +1,56 @@
+14:41:27.230 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Edify\eclipse-workspace\OpenCart\master.xml"
+14:41:28.129 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Edify\eclipse-workspace\OpenCart\master.xml
+
+14:42:05.579 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Edify\eclipse-workspace\OpenCart\master.xml"
+14:42:06.550 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Edify\eclipse-workspace\OpenCart\master.xml
+
+14:42:11.713 [main] INFO  Testcases.TC_001_AccountRegistrationTest - -----Starting TC_001_AccountRegistrationTest-----
+14:42:12.108 [main] INFO  Testcases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+14:42:12.830 [main] INFO  Testcases.TC_001_AccountRegistrationTest - Clicked on Register link
+14:42:12.836 [main] INFO  Testcases.TC_001_AccountRegistrationTest - Filling the registration form
+14:42:15.381 [main] INFO  Testcases.TC_001_AccountRegistrationTest - Validating the expected message
+14:42:15.615 [main] INFO  Testcases.TC_001_AccountRegistrationTest - -----Finished TC_001_AccountRegistrationTest-----
+14:43:09.273 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Edify\eclipse-workspace\OpenCart\master.xml"
+14:43:14.355 [main] INFO  Testcases.TC_001_AccountRegistrationTest - -----Starting TC_001_AccountRegistrationTest-----
+14:43:14.648 [main] INFO  Testcases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+14:43:15.440 [main] INFO  Testcases.TC_001_AccountRegistrationTest - Clicked on Register link
+14:43:15.444 [main] INFO  Testcases.TC_001_AccountRegistrationTest - Filling the registration form
+14:43:18.198 [main] INFO  Testcases.TC_001_AccountRegistrationTest - Validating the expected message
+14:44:26.976 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Edify\eclipse-workspace\OpenCart\master.xml"
+14:44:33.529 [main] INFO  Testcases.TC_001_AccountRegistrationTest - -----Starting TC_001_AccountRegistrationTest-----
+14:44:33.861 [main] INFO  Testcases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+14:44:35.026 [main] INFO  Testcases.TC_001_AccountRegistrationTest - Clicked on Register link
+14:44:35.030 [main] INFO  Testcases.TC_001_AccountRegistrationTest - Filling the registration form
+14:44:39.249 [main] INFO  Testcases.TC_001_AccountRegistrationTest - Validating the expected message
+14:45:45.087 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Edify\eclipse-workspace\OpenCart\master.xml"
+14:45:45.711 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Edify\eclipse-workspace\OpenCart\master.xml
+
+14:45:50.911 [main] INFO  Testcases.TC_001_AccountRegistrationTest - -----Starting TC_001_AccountRegistrationTest-----
+14:45:51.284 [main] INFO  Testcases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+14:45:51.969 [main] INFO  Testcases.TC_001_AccountRegistrationTest - Clicked on Register link
+14:45:51.973 [main] INFO  Testcases.TC_001_AccountRegistrationTest - Filling the registration form
+14:45:54.774 [main] INFO  Testcases.TC_001_AccountRegistrationTest - Validating the expected message
+14:45:55.050 [main] INFO  Testcases.TC_001_AccountRegistrationTest - -----Finished TC_001_AccountRegistrationTest-----
+14:46:26.826 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Edify\eclipse-workspace\OpenCart\master.xml"
+14:46:31.558 [main] INFO  Testcases.TC_001_AccountRegistrationTest - -----Starting TC_001_AccountRegistrationTest-----
+14:46:31.903 [main] INFO  Testcases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+14:46:32.538 [main] INFO  Testcases.TC_001_AccountRegistrationTest - Clicked on Register link
+14:46:32.542 [main] INFO  Testcases.TC_001_AccountRegistrationTest - Filling the registration form
+14:46:35.048 [main] INFO  Testcases.TC_001_AccountRegistrationTest - Validating the expected message
+14:56:05.193 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Edify\eclipse-workspace\OpenCart\master.xml"
+14:56:13.254 [main] INFO  Testcases.TC_001_AccountRegistrationTest - -----Starting TC_001_AccountRegistrationTest-----
+14:56:13.506 [main] INFO  Testcases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+14:56:13.975 [main] INFO  Testcases.TC_001_AccountRegistrationTest - Clicked on Register link
+14:56:13.984 [main] INFO  Testcases.TC_001_AccountRegistrationTest - Filling the registration form
+14:56:16.770 [main] INFO  Testcases.TC_001_AccountRegistrationTest - Validating the expected message
+15:08:35.593 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Edify\eclipse-workspace\OpenCart\master.xml"
+15:08:36.104 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Edify\eclipse-workspace\OpenCart\master.xml
+
+15:08:41.850 [main] INFO  Testcases.TC_001_AccountRegistrationTest - -----Starting TC_001_AccountRegistrationTest-----
+15:08:42.549 [main] INFO  Testcases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+15:08:43.270 [main] INFO  Testcases.TC_001_AccountRegistrationTest - Clicked on Register link
+15:08:43.284 [main] INFO  Testcases.TC_001_AccountRegistrationTest - Filling the registration form

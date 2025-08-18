@@ -1,0 +1,57 @@
+19:12:18.806 [TestNG-tests-3] INFO  Testcases.TC_001_AccountRegistrationTest - -----Starting TC_001_AccountRegistrationTest-----
+19:12:19.735 [TestNG-tests-3] INFO  Testcases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+19:31:19.537 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Edify\eclipse-workspace\OpenCart\grid-docker.xml"
+19:31:20.427 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Edify\eclipse-workspace\OpenCart\grid-docker.xml
+
+19:43:27.944 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Edify\eclipse-workspace\OpenCart\grid-docker.xml"
+19:43:28.556 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Edify\eclipse-workspace\OpenCart\grid-docker.xml
+
+19:49:08.288 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Edify\eclipse-workspace\OpenCart\grid-docker.xml"
+19:49:09.130 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Edify\eclipse-workspace\OpenCart\grid-docker.xml
+
+10:06:36.133 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Edify\eclipse-workspace\OpenCart\test-output\testng-failed.xml"
+10:06:36.610 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Edify\eclipse-workspace\OpenCart\test-output\testng-failed.xml
+
+11:14:15.795 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Edify\eclipse-workspace\OpenCart\grid-docker.xml"
+11:14:16.362 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Edify\eclipse-workspace\OpenCart\grid-docker.xml
+
+11:17:34.158 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Edify\eclipse-workspace\OpenCart\grid-docker.xml"
+11:17:34.844 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Edify\eclipse-workspace\OpenCart\grid-docker.xml
+
+19:02:49.964 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Edify\eclipse-workspace\OpenCart\grid-docker.xml"
+19:02:50.663 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Edify\eclipse-workspace\OpenCart\grid-docker.xml
+
+19:07:28.832 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Edify\eclipse-workspace\OpenCart\grid-docker.xml"
+19:07:30.008 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Edify\eclipse-workspace\OpenCart\grid-docker.xml
+
+10:17:55.259 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Edify\eclipse-workspace\OpenCart\grid-docker.xml"
+10:17:56.480 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Edify\eclipse-workspace\OpenCart\grid-docker.xml
+
+10:18:04.574 [TestNG-tests-1] INFO  Testcases.TC_001_AccountRegistrationTest - -----Starting TC_001_AccountRegistrationTest-----
+10:18:05.338 [TestNG-tests-1] INFO  Testcases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+10:18:06.061 [TestNG-tests-1] INFO  Testcases.TC_001_AccountRegistrationTest - Clicked on Register link
+10:18:06.063 [TestNG-tests-1] INFO  Testcases.TC_001_AccountRegistrationTest - Filling the registration form
+10:18:09.366 [TestNG-tests-1] INFO  Testcases.TC_001_AccountRegistrationTest - Validating the expected message
+10:18:09.840 [TestNG-tests-1] INFO  Testcases.TC_001_AccountRegistrationTest - -----Finished TC_001_AccountRegistrationTest-----
+10:18:21.231 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:18:21.237 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:18:21.252 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:18:22.649 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:18:22.655 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:18:22.655 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:18:22.740 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:18:22.751 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:18:22.754 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:18:22.835 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:18:22.835 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:18:22.851 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:18:22.993 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels

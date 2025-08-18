@@ -1,0 +1,8 @@
+15:08:45.650 [main] INFO  Testcases.TC_001_AccountRegistrationTest - Validating the expected message
+15:08:45.866 [main] INFO  Testcases.TC_001_AccountRegistrationTest - -----Finished TC_001_AccountRegistrationTest-----
+15:10:05.303 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Edify\eclipse-workspace\OpenCart\master.xml"
+15:10:10.483 [main] INFO  Testcases.TC_001_AccountRegistrationTest - -----Starting TC_001_AccountRegistrationTest-----
+15:10:10.738 [main] INFO  Testcases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+15:10:11.269 [main] INFO  Testcases.TC_001_AccountRegistrationTest - Clicked on Register link
+15:10:11.276 [main] INFO  Testcases.TC_001_AccountRegistrationTest - Filling the registration form
+15:10:13.970 [main] INFO  Testcases.TC_001_AccountRegistrationTest - Validating the expected message
