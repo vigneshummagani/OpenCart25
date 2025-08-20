@@ -1,8 +1,37 @@
-15:08:45.650 [main] INFO  Testcases.TC_001_AccountRegistrationTest - Validating the expected message
-15:08:45.866 [main] INFO  Testcases.TC_001_AccountRegistrationTest - -----Finished TC_001_AccountRegistrationTest-----
-15:10:05.303 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Edify\eclipse-workspace\OpenCart\master.xml"
-15:10:10.483 [main] INFO  Testcases.TC_001_AccountRegistrationTest - -----Starting TC_001_AccountRegistrationTest-----
-15:10:10.738 [main] INFO  Testcases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
-15:10:11.269 [main] INFO  Testcases.TC_001_AccountRegistrationTest - Clicked on Register link
-15:10:11.276 [main] INFO  Testcases.TC_001_AccountRegistrationTest - Filling the registration form
-15:10:13.970 [main] INFO  Testcases.TC_001_AccountRegistrationTest - Validating the expected message
+16:21:34.811 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Edify\eclipse-workspace\OpenCart\crossbrowsertest.xml
+
+16:21:50.455 [TestNG-tests-1] INFO  Testcases.TC_001_AccountRegistrationTest - -----Starting TC_001_AccountRegistrationTest-----
+16:21:50.952 [TestNG-tests-1] INFO  Testcases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+16:21:52.201 [TestNG-tests-1] INFO  Testcases.TC_001_AccountRegistrationTest - Clicked on Register link
+16:21:52.205 [TestNG-tests-1] INFO  Testcases.TC_001_AccountRegistrationTest - Filling the registration form
+16:21:56.587 [TestNG-tests-1] INFO  Testcases.TC_001_AccountRegistrationTest - Validating the expected message
+16:21:56.721 [TestNG-tests-1] INFO  Testcases.TC_001_AccountRegistrationTest - -----Finished TC_001_AccountRegistrationTest-----
+16:22:17.033 [TestNG-tests-1] INFO  Testcases.TC_001_AccountRegistrationTest - -----Starting TC_001_AccountRegistrationTest-----
+16:22:17.420 [TestNG-tests-1] INFO  Testcases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+16:22:18.604 [TestNG-tests-1] INFO  Testcases.TC_001_AccountRegistrationTest - Clicked on Register link
+16:22:18.608 [TestNG-tests-1] INFO  Testcases.TC_001_AccountRegistrationTest - Filling the registration form
+16:22:23.420 [TestNG-tests-1] INFO  Testcases.TC_001_AccountRegistrationTest - Validating the expected message
+16:22:23.543 [TestNG-tests-1] INFO  Testcases.TC_001_AccountRegistrationTest - -----Finished TC_001_AccountRegistrationTest-----
+16:22:48.511 [TestNG-tests-1] INFO  Testcases.TC_001_AccountRegistrationTest - -----Starting TC_001_AccountRegistrationTest-----
+16:22:49.042 [TestNG-tests-1] INFO  Testcases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+16:22:50.010 [TestNG-tests-1] INFO  Testcases.TC_001_AccountRegistrationTest - Clicked on Register link
+16:22:50.011 [TestNG-tests-1] INFO  Testcases.TC_001_AccountRegistrationTest - Filling the registration form
+16:22:52.904 [TestNG-tests-1] INFO  Testcases.TC_001_AccountRegistrationTest - Validating the expected message
+16:22:52.973 [TestNG-tests-1] INFO  Testcases.TC_001_AccountRegistrationTest - -----Finished TC_001_AccountRegistrationTest-----
+16:24:47.129 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Edify\eclipse-workspace\OpenCart\crossbrowsertest.xml"
+16:25:03.943 [TestNG-tests-1] INFO  Testcases.TC_001_AccountRegistrationTest - -----Starting TC_001_AccountRegistrationTest-----
+16:25:04.161 [TestNG-tests-1] INFO  Testcases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+16:25:05.098 [TestNG-tests-1] INFO  Testcases.TC_001_AccountRegistrationTest - Clicked on Register link
+16:25:05.106 [TestNG-tests-1] INFO  Testcases.TC_001_AccountRegistrationTest - Filling the registration form
+16:25:08.392 [TestNG-tests-1] INFO  Testcases.TC_001_AccountRegistrationTest - Validating the expected message
+16:25:29.886 [TestNG-tests-1] INFO  Testcases.TC_001_AccountRegistrationTest - -----Starting TC_001_AccountRegistrationTest-----
+16:25:30.228 [TestNG-tests-1] INFO  Testcases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+16:25:31.191 [TestNG-tests-1] INFO  Testcases.TC_001_AccountRegistrationTest - Clicked on Register link
+16:25:31.191 [TestNG-tests-1] INFO  Testcases.TC_001_AccountRegistrationTest - Filling the registration form
+16:25:36.214 [TestNG-tests-1] INFO  Testcases.TC_001_AccountRegistrationTest - Validating the expected message
+16:26:06.815 [TestNG-tests-1] INFO  Testcases.TC_001_AccountRegistrationTest - -----Starting TC_001_AccountRegistrationTest-----
+16:26:07.608 [TestNG-tests-1] INFO  Testcases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+16:26:08.456 [TestNG-tests-1] INFO  Testcases.TC_001_AccountRegistrationTest - Clicked on Register link
+16:26:08.457 [TestNG-tests-1] INFO  Testcases.TC_001_AccountRegistrationTest - Filling the registration form
+16:26:10.723 [TestNG-tests-1] INFO  Testcases.TC_001_AccountRegistrationTest - Validating the expected message

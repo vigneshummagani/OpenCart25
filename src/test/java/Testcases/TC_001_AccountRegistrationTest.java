@@ -7,6 +7,7 @@ import BaseTests.BaseClass;
 import PageObjects.AccountRegistrationPage;
 import PageObjects.HomePage;
 
+
 public class TC_001_AccountRegistrationTest extends BaseClass {
 	
 	@Test(groups = {"Regression","Master"})

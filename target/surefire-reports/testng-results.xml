@@ -1,19 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="0" failed="1" skipped="0">
+<testng-results ignored="0" total="6" passed="3" failed="3" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-08-14T15:10:05 IST" name="Suite" finished-at="2025-08-14T15:10:14 IST" duration-ms="9099">
+  <suite started-at="2025-08-20T16:24:47 IST" name="Suite" finished-at="2025-08-20T16:26:12 IST" duration-ms="84952">
     <groups>
       <group name="Master">
-        <method signature="TC_001_AccountRegistrationTest.Account_registraion_page()[pri:0, instance:Testcases.TC_001_AccountRegistrationTest@50468873]" name="Account_registraion_page" class="Testcases.TC_001_AccountRegistrationTest"/>
+        <method signature="TC_001_AccountRegistrationTest.Account_registraion_page()[pri:0, instance:Testcases.TC_001_AccountRegistrationTest@6d3c5255]" name="Account_registraion_page" class="Testcases.TC_001_AccountRegistrationTest"/>
+        <method signature="TC_002_LoginTest.verify_Login()[pri:0, instance:Testcases.TC_002_LoginTest@5f0e9815]" name="verify_Login" class="Testcases.TC_002_LoginTest"/>
+        <method signature="TC_001_AccountRegistrationTest.Account_registraion_page()[pri:0, instance:Testcases.TC_001_AccountRegistrationTest@53bd8fca]" name="Account_registraion_page" class="Testcases.TC_001_AccountRegistrationTest"/>
+        <method signature="TC_002_LoginTest.verify_Login()[pri:0, instance:Testcases.TC_002_LoginTest@1e0f9063]" name="verify_Login" class="Testcases.TC_002_LoginTest"/>
+        <method signature="TC_001_AccountRegistrationTest.Account_registraion_page()[pri:0, instance:Testcases.TC_001_AccountRegistrationTest@5cde6747]" name="Account_registraion_page" class="Testcases.TC_001_AccountRegistrationTest"/>
+        <method signature="TC_002_LoginTest.verify_Login()[pri:0, instance:Testcases.TC_002_LoginTest@3e30646a]" name="verify_Login" class="Testcases.TC_002_LoginTest"/>
       </group> <!-- Master -->
+      <group name="Sanity">
+        <method signature="TC_002_LoginTest.verify_Login()[pri:0, instance:Testcases.TC_002_LoginTest@5f0e9815]" name="verify_Login" class="Testcases.TC_002_LoginTest"/>
+        <method signature="TC_002_LoginTest.verify_Login()[pri:0, instance:Testcases.TC_002_LoginTest@1e0f9063]" name="verify_Login" class="Testcases.TC_002_LoginTest"/>
+        <method signature="TC_002_LoginTest.verify_Login()[pri:0, instance:Testcases.TC_002_LoginTest@3e30646a]" name="verify_Login" class="Testcases.TC_002_LoginTest"/>
+      </group> <!-- Sanity -->
       <group name="Regression">
-        <method signature="TC_001_AccountRegistrationTest.Account_registraion_page()[pri:0, instance:Testcases.TC_001_AccountRegistrationTest@50468873]" name="Account_registraion_page" class="Testcases.TC_001_AccountRegistrationTest"/>
+        <method signature="TC_001_AccountRegistrationTest.Account_registraion_page()[pri:0, instance:Testcases.TC_001_AccountRegistrationTest@6d3c5255]" name="Account_registraion_page" class="Testcases.TC_001_AccountRegistrationTest"/>
+        <method signature="TC_001_AccountRegistrationTest.Account_registraion_page()[pri:0, instance:Testcases.TC_001_AccountRegistrationTest@53bd8fca]" name="Account_registraion_page" class="Testcases.TC_001_AccountRegistrationTest"/>
+        <method signature="TC_001_AccountRegistrationTest.Account_registraion_page()[pri:0, instance:Testcases.TC_001_AccountRegistrationTest@5cde6747]" name="Account_registraion_page" class="Testcases.TC_001_AccountRegistrationTest"/>
       </group> <!-- Regression -->
     </groups>
-    <test started-at="2025-08-14T15:10:05 IST" name="Test" finished-at="2025-08-14T15:10:14 IST" duration-ms="9099">
-      <class name="Testcases.TC_001_AccountRegistrationTest">
-        <test-method is-config="true" signature="SetUp(java.lang.String,java.lang.String)[pri:0, instance:Testcases.TC_001_AccountRegistrationTest@50468873]" started-at="2025-08-14T15:10:06 IST" name="SetUp" finished-at="2025-08-14T15:10:10 IST" duration-ms="4416" status="PASS">
+    <test started-at="2025-08-20T16:24:47 IST" name="chromeTest" finished-at="2025-08-20T16:25:08 IST" duration-ms="21102">
+      <class name="Testcases.TC_002_LoginTest">
+        <test-method is-config="true" signature="SetUp(java.lang.String,java.lang.String)[pri:0, instance:Testcases.TC_002_LoginTest@5f0e9815]" started-at="2025-08-20T16:24:48 IST" name="SetUp" finished-at="2025-08-20T16:24:52 IST" duration-ms="4504" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -29,14 +41,40 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SetUp -->
-        <test-method signature="Account_registraion_page()[pri:0, instance:Testcases.TC_001_AccountRegistrationTest@50468873]" started-at="2025-08-14T15:10:10 IST" name="Account_registraion_page" finished-at="2025-08-14T15:10:14 IST" duration-ms="3566" status="FAIL">
+        <test-method signature="verify_Login()[pri:0, instance:Testcases.TC_002_LoginTest@5f0e9815]" started-at="2025-08-20T16:24:52 IST" name="verify_Login" finished-at="2025-08-20T16:25:00 IST" duration-ms="8117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Testcases.TC_002_LoginTest@5f0e9815]" started-at="2025-08-20T16:25:00 IST" name="tearDown" finished-at="2025-08-20T16:25:00 IST" duration-ms="134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Testcases.TC_002_LoginTest -->
+      <class name="Testcases.TC_001_AccountRegistrationTest">
+        <test-method is-config="true" signature="SetUp(java.lang.String,java.lang.String)[pri:0, instance:Testcases.TC_001_AccountRegistrationTest@6d3c5255]" started-at="2025-08-20T16:25:00 IST" name="SetUp" finished-at="2025-08-20T16:25:03 IST" duration-ms="2972" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[linux]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="Account_registraion_page()[pri:0, instance:Testcases.TC_001_AccountRegistrationTest@6d3c5255]" started-at="2025-08-20T16:25:03 IST" name="Account_registraion_page" finished-at="2025-08-20T16:25:08 IST" duration-ms="4661" status="FAIL">
           <exception class="java.lang.NoClassDefFoundError">
             <message>
               <![CDATA[org/junit/Assert]]>
             </message>
             <full-stacktrace>
               <![CDATA[java.lang.NoClassDefFoundError: org/junit/Assert
-at Testcases.TC_001_AccountRegistrationTest.Account_registraion_page(TC_001_AccountRegistrationTest.java:58)
+at Testcases.TC_001_AccountRegistrationTest.Account_registraion_page(TC_001_AccountRegistrationTest.java:59)
 at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
 at java.base/java.lang.reflect.Method.invoke(Method.java:580)
 at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
@@ -51,38 +89,200 @@ at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
 at org.testng.TestRunner.privateRun(TestRunner.java:741)
 at org.testng.TestRunner.run(TestRunner.java:616)
 at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
-at org.testng.SuiteRunner.run(SuiteRunner.java:312)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
-at org.testng.TestNG.runSuites(TestNG.java:1112)
-at org.testng.TestNG.run(TestNG.java:1079)
-at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308)
-at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71)
-at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113)
-at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
-at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
-at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
-at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+at java.base/java.lang.Thread.run(Thread.java:1583)
 Caused by: java.lang.ClassNotFoundException: org.junit.Assert
 at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
 at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
 at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
-... 31 more
+... 21 more
 ]]>
             </full-stacktrace>
           </exception> <!-- java.lang.NoClassDefFoundError -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Account_registraion_page -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:Testcases.TC_001_AccountRegistrationTest@50468873]" started-at="2025-08-14T15:10:14 IST" name="tearDown" finished-at="2025-08-14T15:10:14 IST" duration-ms="469" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Testcases.TC_001_AccountRegistrationTest@6d3c5255]" started-at="2025-08-20T16:25:08 IST" name="tearDown" finished-at="2025-08-20T16:25:08 IST" duration-ms="106" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- Testcases.TC_001_AccountRegistrationTest -->
-    </test> <!-- Test -->
+    </test> <!-- chromeTest -->
+    <test started-at="2025-08-20T16:25:13 IST" name="edgeTest" finished-at="2025-08-20T16:25:38 IST" duration-ms="25561">
+      <class name="Testcases.TC_002_LoginTest">
+        <test-method is-config="true" signature="SetUp(java.lang.String,java.lang.String)[pri:0, instance:Testcases.TC_002_LoginTest@1e0f9063]" started-at="2025-08-20T16:25:13 IST" name="SetUp" finished-at="2025-08-20T16:25:20 IST" duration-ms="6970" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[linux]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="verify_Login()[pri:0, instance:Testcases.TC_002_LoginTest@1e0f9063]" started-at="2025-08-20T16:25:20 IST" name="verify_Login" finished-at="2025-08-20T16:25:25 IST" duration-ms="4998" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Testcases.TC_002_LoginTest@1e0f9063]" started-at="2025-08-20T16:25:25 IST" name="tearDown" finished-at="2025-08-20T16:25:25 IST" duration-ms="159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Testcases.TC_002_LoginTest -->
+      <class name="Testcases.TC_001_AccountRegistrationTest">
+        <test-method is-config="true" signature="SetUp(java.lang.String,java.lang.String)[pri:0, instance:Testcases.TC_001_AccountRegistrationTest@53bd8fca]" started-at="2025-08-20T16:25:25 IST" name="SetUp" finished-at="2025-08-20T16:25:29 IST" duration-ms="4410" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[linux]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="Account_registraion_page()[pri:0, instance:Testcases.TC_001_AccountRegistrationTest@53bd8fca]" started-at="2025-08-20T16:25:29 IST" name="Account_registraion_page" finished-at="2025-08-20T16:25:36 IST" duration-ms="7055" status="FAIL">
+          <exception class="java.lang.NoClassDefFoundError">
+            <message>
+              <![CDATA[org/junit/Assert]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.NoClassDefFoundError: org/junit/Assert
+at Testcases.TC_001_AccountRegistrationTest.Account_registraion_page(TC_001_AccountRegistrationTest.java:59)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.lang.ClassNotFoundException: org.junit.Assert
+... 21 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NoClassDefFoundError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Account_registraion_page -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Testcases.TC_001_AccountRegistrationTest@53bd8fca]" started-at="2025-08-20T16:25:37 IST" name="tearDown" finished-at="2025-08-20T16:25:38 IST" duration-ms="1121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Testcases.TC_001_AccountRegistrationTest -->
+    </test> <!-- edgeTest -->
+    <test started-at="2025-08-20T16:25:40 IST" name="firefoxTest" finished-at="2025-08-20T16:26:12 IST" duration-ms="32054">
+      <class name="Testcases.TC_002_LoginTest">
+        <test-method is-config="true" signature="SetUp(java.lang.String,java.lang.String)[pri:0, instance:Testcases.TC_002_LoginTest@3e30646a]" started-at="2025-08-20T16:25:40 IST" name="SetUp" finished-at="2025-08-20T16:25:51 IST" duration-ms="10454" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[linux]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="verify_Login()[pri:0, instance:Testcases.TC_002_LoginTest@3e30646a]" started-at="2025-08-20T16:25:51 IST" name="verify_Login" finished-at="2025-08-20T16:25:54 IST" duration-ms="3718" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Testcases.TC_002_LoginTest@3e30646a]" started-at="2025-08-20T16:25:54 IST" name="tearDown" finished-at="2025-08-20T16:25:57 IST" duration-ms="2538" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Testcases.TC_002_LoginTest -->
+      <class name="Testcases.TC_001_AccountRegistrationTest">
+        <test-method is-config="true" signature="SetUp(java.lang.String,java.lang.String)[pri:0, instance:Testcases.TC_001_AccountRegistrationTest@5cde6747]" started-at="2025-08-20T16:25:57 IST" name="SetUp" finished-at="2025-08-20T16:26:06 IST" duration-ms="9379" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[linux]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="Account_registraion_page()[pri:0, instance:Testcases.TC_001_AccountRegistrationTest@5cde6747]" started-at="2025-08-20T16:26:06 IST" name="Account_registraion_page" finished-at="2025-08-20T16:26:10 IST" duration-ms="3962" status="FAIL">
+          <exception class="java.lang.NoClassDefFoundError">
+            <message>
+              <![CDATA[org/junit/Assert]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.NoClassDefFoundError: org/junit/Assert
+at Testcases.TC_001_AccountRegistrationTest.Account_registraion_page(TC_001_AccountRegistrationTest.java:59)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+at java.base/java.lang.Thread.run(Thread.java:1583)
+Caused by: java.lang.ClassNotFoundException: org.junit.Assert
+... 21 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NoClassDefFoundError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Account_registraion_page -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Testcases.TC_001_AccountRegistrationTest@5cde6747]" started-at="2025-08-20T16:26:10 IST" name="tearDown" finished-at="2025-08-20T16:26:12 IST" duration-ms="1845" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Testcases.TC_001_AccountRegistrationTest -->
+    </test> <!-- firefoxTest -->
   </suite> <!-- Suite -->
 </testng-results>

@@ -12,6 +12,7 @@ public class HomePage extends BasePage {
 	}
 	
 	@FindBy(xpath="//i[@class='fa fa-user']") WebElement MyAccount;
+	//@FindBy(xpath="//a[@title='My Account']")  WebElement MyAccount;
 	@FindBy(xpath= "//a[normalize-space()='Register']") WebElement Register;
 	@FindBy(xpath= "//ul[@class='dropdown-menu dropdown-menu-right']//a[normalize-space()='Login']") WebElement Login;
 	
