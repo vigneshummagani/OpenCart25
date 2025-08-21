@@ -11,7 +11,11 @@
   <parameter name="browser" value="chrome"/>
   
     <classes>
-    <class name="Testcases.TC_002_LoginTest"/>
+     <class name="Testcases.TC_001_AccountRegistrationTest"/>
+       <class name="Testcases.TC_002_LoginTest"/>
+       <class name="Testcases.TC_003_LoginDataDrivenTesting"/>
+       <class name="Testcases.TC_002_LoginTest"/>
+       <class name="Testcases.TC_004_SearchTest"/>
     
     </classes>
   </test> <!-- Test -->
@@ -21,8 +25,11 @@
   <parameter name="browser" value="edge"/>
   
     <classes>
-     <class name="Testcases.TC_002_LoginTest"/>
-    
+         <class name="Testcases.TC_001_AccountRegistrationTest"/>
+       <class name="Testcases.TC_002_LoginTest"/>
+       <class name="Testcases.TC_003_LoginDataDrivenTesting"/>
+       <class name="Testcases.TC_002_LoginTest"/>
+       <class name="Testcases.TC_004_SearchTest"/>
     </classes>
   </test>  
   
@@ -31,7 +38,11 @@
   <parameter name="browser" value="firefox"/>
   
     <classes>
-     <class name="Testcases.TC_002_LoginTest"/>
+      <class name="Testcases.TC_001_AccountRegistrationTest"/>
+       <class name="Testcases.TC_002_LoginTest"/>
+       <class name="Testcases.TC_003_LoginDataDrivenTesting"/>
+       <class name="Testcases.TC_002_LoginTest"/>
+       <class name="Testcases.TC_004_SearchTest"/>
     
     </classes>
   </test> <!-- Test -->

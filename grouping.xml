@@ -22,7 +22,9 @@
     <classes>
      <class name="Testcases.TC_001_AccountRegistrationTest"/>
        <class name="Testcases.TC_002_LoginTest"/>
-      <!--  <class name="Testcases.TC_003_LoginDataDrivenTesting"/>-->
+       <class name="Testcases.TC_003_LoginDataDrivenTesting"/>
+       <class name="Testcases.TC_002_LoginTest"/>
+       <class name="Testcases.TC_004_SearchTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
