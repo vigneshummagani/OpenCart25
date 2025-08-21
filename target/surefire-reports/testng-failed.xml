@@ -15,6 +15,13 @@
           <include name="Account_registraion_page"/>
         </methods>
       </class> <!-- Testcases.TC_001_AccountRegistrationTest -->
+      <class name="Testcases.TC_002_LoginTest">
+        <methods>
+          <include name="verify_Login"/>
+          <include name="tearDown"/>
+          <include name="SetUp"/>
+        </methods>
+      </class> <!-- Testcases.TC_002_LoginTest -->
     </classes>
   </test> <!-- chromeTest(failed) -->
   <test thread-count="1" parallel="tests" name="edgeTest(failed)" verbose="0">
@@ -28,6 +35,13 @@
           <include name="Account_registraion_page"/>
         </methods>
       </class> <!-- Testcases.TC_001_AccountRegistrationTest -->
+      <class name="Testcases.TC_002_LoginTest">
+        <methods>
+          <include name="verify_Login"/>
+          <include name="tearDown"/>
+          <include name="SetUp"/>
+        </methods>
+      </class> <!-- Testcases.TC_002_LoginTest -->
     </classes>
   </test> <!-- edgeTest(failed) -->
   <test thread-count="1" parallel="tests" name="firefoxTest(failed)" verbose="0">
@@ -41,6 +55,13 @@
           <include name="Account_registraion_page"/>
         </methods>
       </class> <!-- Testcases.TC_001_AccountRegistrationTest -->
+      <class name="Testcases.TC_002_LoginTest">
+        <methods>
+          <include name="verify_Login"/>
+          <include name="tearDown"/>
+          <include name="SetUp"/>
+        </methods>
+      </class> <!-- Testcases.TC_002_LoginTest -->
     </classes>
   </test> <!-- firefoxTest(failed) -->
 </suite> <!-- Failed suite [Suite] -->

@@ -35,3 +35,4 @@
 16:26:08.456 [TestNG-tests-1] INFO  Testcases.TC_001_AccountRegistrationTest - Clicked on Register link
 16:26:08.457 [TestNG-tests-1] INFO  Testcases.TC_001_AccountRegistrationTest - Filling the registration form
 16:26:10.723 [TestNG-tests-1] INFO  Testcases.TC_001_AccountRegistrationTest - Validating the expected message
+10:24:23.948 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Edify\eclipse-workspace\OpenCart\crossbrowsertest.xml"
