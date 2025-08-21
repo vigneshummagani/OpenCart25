@@ -59,11 +59,11 @@ public class BaseClass {
 
 	        if (br.equalsIgnoreCase("chrome")) {
 	            ChromeOptions options = new ChromeOptions();
-	            options.addArguments("--headless=new");
+	            /*options.addArguments("--headless=new");
 	            options.addArguments("--disable-gpu");
-	           // options.addArguments("--window-size=1920,1080");
+	            options.addArguments("--window-size=1920,1080");
 	            options.addArguments("--no-sandbox");
-	            options.addArguments("--disable-dev-shm-usage");
+	            options.addArguments("--disable-dev-shm-usage");*/
 
 	            //options.setPlatformName(os.equalsIgnoreCase("windows")?"WINDOWS":os.toLowerCase());
 	            options.setPlatformName(os.equalsIgnoreCase("linux") ? "LINUX" : os.toLowerCase());
@@ -71,9 +71,9 @@ public class BaseClass {
 
 	        } else if (br.equalsIgnoreCase("firefox")) {
 	            FirefoxOptions options = new FirefoxOptions();
-	            options.addArguments("--headless");
+	            /*options.addArguments("--headless");
 	            options.addArguments("--width=1920");
-	            options.addArguments("--height=1080");
+	            options.addArguments("--height=1080");*/
 
 	            //options.setPlatformName(os.equalsIgnoreCase("windows")?"WINDOWS":os.toLowerCase());
 	            options.setPlatformName(os.equalsIgnoreCase("linux") ? "LINUX" : os.toLowerCase());
@@ -82,11 +82,11 @@ public class BaseClass {
 	        } else if (br.equalsIgnoreCase("edge")) {
 	            EdgeOptions options = new EdgeOptions();
 	            System.setProperty("webdriver.edge.driver", "C:\\Users\\Edify\\Downloads\\edgedriver_win64\\msedgedriver.exe");
-	            options.addArguments("--headless=new");
+	            /*options.addArguments("--headless=new");
 	            options.addArguments("--disable-gpu");
 	            options.addArguments("--window-size=1920,1080");
 	            options.addArguments("--no-sandbox");
-	            options.addArguments("--disable-dev-shm-usage");
+	            options.addArguments("--disable-dev-shm-usage");*/
 
 	            //options.setPlatformName(os.equalsIgnoreCase("windows")?"WIN11":os.toLowerCase());
 	            options.setPlatformName(os.equalsIgnoreCase("linux") ? "LINUX" : os.toLowerCase());

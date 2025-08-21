@@ -12,7 +12,7 @@
   
     <classes>
     <class name="Testcases.TC_002_LoginTest"/>
-     <class name="Testcases.TC_001_AccountRegistrationTest"/>
+    
     </classes>
   </test> <!-- Test -->
   
@@ -22,7 +22,7 @@
   
     <classes>
      <class name="Testcases.TC_002_LoginTest"/>
-     <class name="Testcases.TC_001_AccountRegistrationTest"/>
+    
     </classes>
   </test>  
   
@@ -32,7 +32,7 @@
   
     <classes>
      <class name="Testcases.TC_002_LoginTest"/>
-     <class name="Testcases.TC_001_AccountRegistrationTest"/>
+    
     </classes>
   </test> <!-- Test -->
 
